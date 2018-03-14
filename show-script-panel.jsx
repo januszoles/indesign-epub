@@ -1,3 +1,5 @@
+#target indesign
+
 //~ === Scripts === Window Menu:Utilities === 52224 =======================
 //~ ---- Show "Scripts Panel" ---------------------------------------------
 function showScriptsPanel() {
